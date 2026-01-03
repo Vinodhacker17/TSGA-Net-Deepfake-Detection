@@ -38,7 +38,7 @@ Training Hardware: NVIDIA Tesla T4 GPUs (via Kaggle)
 
 Clone the repository:
 
-git clone [https://github.com/YOUR_USERNAME/SentinAI.git](https://github.com/YOUR_USERNAME/SentinAI.git)
+git clone (https://github.com/Vinodhacker17/TSGA-Net-Deepfake-Detection.git)
 cd SentinAI
 
 
